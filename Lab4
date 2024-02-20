@@ -1,0 +1,25 @@
+The Sales Manager would like you to answer the following questions:
+
+How many Cities have Profit over 150 000 and what is the Total Profit?
+
+Answer - 19 Cities – 16,280,371
+
+What is the Total Profit for Cities that begin with the letter S?
+
+Answer – 3,212,411 (23 – Cities)
+
+Create a table displaying the Sales for each Product Name. What is the Total Sales for Audio (Product Category) and how many Products are in the Audio Category?
+
+Answer - Sales – 1,029,640 and Products 106
+
+How many Products (Product Name) contain the word Contoso and have Sales greater than 100 000?
+
+Answer - Products = 14
+
+What was the Total Sales for 1 Jan 2018 to 30 June 2018?
+
+Answer - Sales = 8,850,239
+
+What is the Total Sales for the Bottom 10 Countries?
+
+Answer – 894,317
